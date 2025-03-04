@@ -11,7 +11,7 @@ amirhabibimaill/amirhabibimaill is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.google.com/"  title="Hello" alt="Hello">Hello</a>
+<a href="https://www.goolinkgle.com/"  title="Hello" alt="Hello">Hello</a>
 
 
 amirdofollo.com
